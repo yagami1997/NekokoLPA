@@ -1,4 +1,4 @@
-# Nekoko LPA
+# Nekoko LPA Vulcan
 
 *super unstable, use at your own risk*
 
